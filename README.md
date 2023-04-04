@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Emili Toledo
 
-• 📚 Estudando Análise e Desenvolvimento de Sistemas 
+• 📚 Cursando Análise e Desenvolvimento de Sistemas 
 
   <div>
   <a href="https://github.com/emilitoledo">
