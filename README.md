@@ -3,9 +3,9 @@
 • 📚 Cursando Análise e Desenvolvimento de Sistemas 
 
   <div>
-  <a href="https://github.com/emilitoledo">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmiliToledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiliToledo&layout=compact&langs_count=16&theme=dracula"/>
+  <br/>
+   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiliToledo&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   
   <div style="display: inline_block"><br>
